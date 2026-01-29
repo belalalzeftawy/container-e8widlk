@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "belalalzeftawy",
+  "repo": "container-e8widlk",
+  "name": "belalalzeftawy",
+  "email": "blalalzftawy@gmail.com",
+}
